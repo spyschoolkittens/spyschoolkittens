@@ -1,6 +1,6 @@
 - 👋 Hey, I’m @spyschoolkittens
-- 👀 I’m interested in learning how to code!
-- 📫 How to reach me: contact me on discord! kit#6203
+- I’m interested in learning how to code!
+- If anyone has some good help or tips, lemme know!
 
 <!---
 spyschoolkittens/spyschoolkittens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
